@@ -1,6 +1,6 @@
 # Boston Real Estate and Venue Data Analysis
 
-The Greater Boston Metro area is one of the most expensive places to live in the United States. As the tenth largest metropolitan statistical area in the US, Boston is home to a continuously growing population of approximately 4.8 million people. This project aims to discover more information about Bostonian zip codes and the mostpopular venues within each. Additionally it will look at the possibility of segmenting, classifying, and modeling the median prices of the neighborhood.
+The Greater Boston Metro area is one of the most expensive places to live in the United States. As the tenth largest metropolitan statistical area in the US, Boston is home to a continuously growing population of approximately 4.8 million people. This project aims to discover more information about Bostonian zip codes and the most popular venues within each. Additionally it will look at the possibility of segmenting, classifying, and modeling the median prices of the neighborhood.
 
 **Link to full project report [PDF]:** https://github.com/tpacun/boston_real_estate_data_analysis/blob/master/Final_Report.pdf
 
